@@ -12,11 +12,11 @@
     Website for my [ib](https://www.ibo.org/about-the-ib/) project
     <br />
     <br />
-    <a href="https://lofi.ch3n.cc">View Demo</a>
+    <a href="https://ibimmigrant.com">View Demo</a>
     ·
-    <a href="https://github.com/RedNotSus/lofi-radio/issues">Report Bug</a>
+    <a href="https://github.com/RedNotSus/IB/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RedNotSus/lofi-radio/issues">Request Feature</a>
+    <a href="https://github.com/RedNotSus/IB/issues">Request Feature</a>
   </p>
 </div>
 
@@ -50,7 +50,7 @@
 
 ## About The Project
 
-This is a player that broadcasts lofi 24/7, it is synced so everyone is listening to the same song at the same time, based off of a play list found in the backend.
+Simple website for my IB project, shows what life might be like and a easy way to donate.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,7 +71,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RedNotSus/lofi-radio.git
+   git clone https://github.com/RedNotSus/IB.git
    ```
 2. Use caddy or any other server to serve the files
 
@@ -79,22 +79,13 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
-
-- Listen to lofi
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ROADMAP -->
 
 ## Roadmap
 
-- [ ] Next up feature
-- [ ] Skipping songs
-- [ ] Better UI
-- [ ] Admin panel
+- [ ] Form built in
 
-See the [open issues](https://github.com/rednotsus/lofi-radio/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/rednotsus/IB/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,8 +108,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/rednotsus/lofi-radio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rednotsus/lofi-radio" alt="contrib.rocks image" />
+<a href="https://github.com/rednotsus/IB/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rednotsus/IB" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
